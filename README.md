@@ -9,3 +9,6 @@ Sou comunicativo, gosto de trabalhar em equipe e estou sempre buscando aprender 
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=hiagosoares-hash&theme=tokyonight)
+
+## 📬 Contato
+[LinkedIn](https://www.linkedin.com/in/hiago-henrique-5921882b0?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
