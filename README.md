@@ -9,5 +9,3 @@ Sou comunicativo, gosto de trabalhar em equipe e estou sempre buscando aprender 
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=hiagosoares-hash&theme=tokyonight)
-
-
