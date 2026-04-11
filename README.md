@@ -6,14 +6,8 @@ Sou comunicativo, gosto de trabalhar em equipe e estou sempre buscando aprender 
 ---
 📍 Brasília, DF - Brasil  
 ---
-![GitHub Streak](https://streak-stats.demolab.com/?user=hiagosoares-hash&theme=tokyonight)
 ## 📊 GitHub Stats
+---
+![GitHub Streak](https://streak-stats.demolab.com/?user=hiagosoares-hash&theme=tokyonight)
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hiagosoares-hash&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hiagosoares-hash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hiagosoares-hash&theme=tokyonight&hide_border=true&background=0d1117" />
-</p>
